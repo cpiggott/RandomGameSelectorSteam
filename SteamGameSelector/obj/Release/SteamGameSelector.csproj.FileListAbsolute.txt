@@ -1,0 +1,8 @@
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\bin\Release\SteamGameSelector.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\bin\Release\SteamGameSelector.exe
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\bin\Release\SteamGameSelector.pdb
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Release\SteamGameSelector.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Release\SteamGameSelector.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Release\SteamGameSelector.exe
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Release\SteamGameSelector.pdb
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Release\SteamGameSelector.RandomGameGenerator.resources

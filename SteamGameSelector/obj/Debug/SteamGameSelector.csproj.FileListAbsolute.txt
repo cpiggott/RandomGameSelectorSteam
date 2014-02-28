@@ -1,0 +1,9 @@
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\bin\Debug\SteamGameSelector.exe.config
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Debug\SteamGameSelector.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Debug\SteamGameSelector.Form1.resources
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Debug\SteamGameSelector.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Debug\SteamGameSelector.csproj.GenerateResource.Cache
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\bin\Debug\SteamGameSelector.exe
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\bin\Debug\SteamGameSelector.pdb
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Debug\SteamGameSelector.exe
+c:\users\chris\documents\visual studio 2013\Projects\SteamGameSelector\SteamGameSelector\obj\Debug\SteamGameSelector.pdb
